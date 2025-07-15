@@ -1,4 +1,3 @@
-﻿# data-science-python-tensorflow
 # Veri Bilimi için Python ve TensorFlow - BTK Akademi
 
 Bu repoda, BTK Akademi üzerinden tamamladığım Atıl Samancıoğlu'nun **"Veri Bilimi için Python ve TensorFlow"** eğitimine ait ders notlarımı paylaşıyorum.
